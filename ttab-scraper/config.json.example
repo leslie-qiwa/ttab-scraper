@@ -1,0 +1,15 @@
+{
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "from_email": "your-email@gmail.com",
+    "password": "your-app-password-here",
+    "default_subject": "TTAB Search Results"
+  },
+  "scraper": {
+    "days_back": 60,
+    "max_pages": null,
+    "output_dir": "./output",
+    "log_dir": "./logs"
+  }
+}
